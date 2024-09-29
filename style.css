@@ -1,0 +1,15 @@
+.navbar-nav{
+margin-left: auto;
+
+
+
+}
+.nav-link:hover{color: blueviolet;}
+.up{
+    display: flex;
+    gap: 5px;
+    margin-left: 20%;
+}
+.parent{
+    display: flex;
+}
